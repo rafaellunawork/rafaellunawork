@@ -7,7 +7,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ SHINIE! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ RAFAEL LUNA! 
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
 
@@ -16,11 +16,7 @@
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
-<!-- - 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/rafaellunawork). -->
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/rafaellunawork).
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio]() for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
